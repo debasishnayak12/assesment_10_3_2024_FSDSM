@@ -1,0 +1,1 @@
+select Emp_id as Manager_id,Emp_name as manager,avg(salary) as Aveerage_salary_under_manager from Employee where Emp_id in(select manager_id from Employee);
