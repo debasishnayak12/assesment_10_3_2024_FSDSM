@@ -1,0 +1,19 @@
+>>> The five number summary is the method of desriptive stats where 5 summary is appy to find range of outliers
+    These steps are 
+    1- Minimum= Mimimum or lowest value 
+    2 - 1st quartile (Q1) = 25 % percentile
+    3- median =center '
+    4- 3rd quartile (Q3) = 75 % percetile 
+    5- maximum - maximum value or highest value 
+
+>>> For represention we use boxplot which shows the minimum ,Q2,median,Q3,max value in plot 
+
+>>>Consider the following dataset representing the ages of 10 individuals:
+
+[30,35,40,45,50,55,60,65,70]
+
+minimum-30
+maximum=70
+median= 50
+Q1=35
+Q3=65

@@ -1,0 +1,18 @@
+>>>Data that do not have a log-normal distribution or a Gaussian distribution are
+    typically those that do not follow a symmetric, bell-shaped curve in their probability 
+    density function (PDF). These distributions are commonly observed in many natural phenomena
+    and human-made processes, but not all data fit these patterns.
+
+>>>One common example of data that do not follow a log-normal or 
+    Gaussian distribution is count data, which can often have a skewed 
+    distribution due to their discrete nature. Count data represent the 
+    number of occurrences of an event within a certain time frame, space, or category. For example:
+
+    1-The number of customer complaints received by a company in a day.
+    2-The number of defects found in a batch of manufactured products.
+    3-The number of accidents at a particular intersection within a week.
+
+>>>Types of vehicles (e.g., cars, trucks, motorcycles).
+    Colors of products (e.g., red, blue, green).
+    Levels of satisfaction (e.g., satisfied, neutral, dissatisfied). these are some example 
+>>> count data and categorical data does not have log normal or gaussian distribution 

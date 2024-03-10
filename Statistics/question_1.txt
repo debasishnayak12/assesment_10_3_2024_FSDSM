@@ -1,0 +1,15 @@
+>>>Six Sigma is a statistical methodology and quality management approach
+    aimed at improving processes and reducing defects and variations within 
+    a product or service. It emphasizes a data-driven, systematic,
+    and disciplined approach to problem-solving and process improvement.
+
+>>>The term "Six Sigma" refers to a level of quality that strives to ensure 
+    that defects occur at a rate of less than 3.4 defects per million opportunities (DPMO). 
+    The sigma (σ) symbol represents the standard deviation, which is a measure of the 
+    variation in a process. Achieving Six Sigma quality means that the process has very 
+    little variation and is highly predictable.
+>>>Example--
+    Suppose a manufacturing company produces electronic components.
+    One of their critical processes is soldering, where components are 
+    soldered onto circuit boards. However, they have been experiencing defects
+    such as soldering defects, misalignments, and component damage.
